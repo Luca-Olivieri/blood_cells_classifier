@@ -1,0 +1,3 @@
+TL				: 50 epochs, lr = 1e-4, ReduceLROnPlateau(patience=6, lower_limit=1e-6)
+FT (from 102)	: 30 epochs, lr = 1e-5, ReduceLROnPlateau(patience=6, lower_limit=1e-7)
+FT (full):		: 20 epochs, lr = 1e-5, ReduceLROnPlateau(patience=6, lower_limit=1e-7) (batch_size=64, grad_acc_steps=2)

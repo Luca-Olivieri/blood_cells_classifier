@@ -1,0 +1,40 @@
+Epoch 1/20
+159/159 ━━━━━━━━━━━━━━━━━━━━ 484s 2s/step - accuracy: 0.9477 - loss: 0.1510 - val_accuracy: 0.9849 - val_loss: 0.0545 - learning_rate: 1.0000e-05
+Epoch 2/20
+159/159 ━━━━━━━━━━━━━━━━━━━━ 362s 2s/step - accuracy: 0.9482 - loss: 0.1408 - val_accuracy: 0.9872 - val_loss: 0.0450 - learning_rate: 1.0000e-05
+Epoch 3/20
+159/159 ━━━━━━━━━━━━━━━━━━━━ 387s 2s/step - accuracy: 0.9458 - loss: 0.1521 - val_accuracy: 0.9855 - val_loss: 0.0473 - learning_rate: 1.0000e-05
+Epoch 4/20
+159/159 ━━━━━━━━━━━━━━━━━━━━ 375s 2s/step - accuracy: 0.9445 - loss: 0.1646 - val_accuracy: 0.9888 - val_loss: 0.0400 - learning_rate: 1.0000e-05
+Epoch 5/20
+159/159 ━━━━━━━━━━━━━━━━━━━━ 377s 2s/step - accuracy: 0.9508 - loss: 0.1487 - val_accuracy: 0.9888 - val_loss: 0.0402 - learning_rate: 1.0000e-05
+Epoch 6/20
+159/159 ━━━━━━━━━━━━━━━━━━━━ 344s 2s/step - accuracy: 0.9492 - loss: 0.1426 - val_accuracy: 0.9883 - val_loss: 0.0384 - learning_rate: 1.0000e-05
+Epoch 7/20
+159/159 ━━━━━━━━━━━━━━━━━━━━ 382s 2s/step - accuracy: 0.9550 - loss: 0.1326 - val_accuracy: 0.9900 - val_loss: 0.0358 - learning_rate: 1.0000e-05
+Epoch 8/20
+159/159 ━━━━━━━━━━━━━━━━━━━━ 355s 2s/step - accuracy: 0.9511 - loss: 0.1411 - val_accuracy: 0.9905 - val_loss: 0.0375 - learning_rate: 1.0000e-05
+Epoch 9/20
+159/159 ━━━━━━━━━━━━━━━━━━━━ 379s 2s/step - accuracy: 0.9526 - loss: 0.1275 - val_accuracy: 0.9911 - val_loss: 0.0372 - learning_rate: 1.0000e-05
+Epoch 10/20
+159/159 ━━━━━━━━━━━━━━━━━━━━ 379s 2s/step - accuracy: 0.9590 - loss: 0.1230 - val_accuracy: 0.9883 - val_loss: 0.0499 - learning_rate: 1.0000e-05
+Epoch 11/20
+159/159 ━━━━━━━━━━━━━━━━━━━━ 383s 2s/step - accuracy: 0.9578 - loss: 0.1206 - val_accuracy: 0.9888 - val_loss: 0.0424 - learning_rate: 1.0000e-05
+Epoch 12/20
+159/159 ━━━━━━━━━━━━━━━━━━━━ 376s 2s/step - accuracy: 0.9542 - loss: 0.1271 - val_accuracy: 0.9877 - val_loss: 0.0376 - learning_rate: 1.0000e-05
+Epoch 13/20
+159/159 ━━━━━━━━━━━━━━━━━━━━ 0s 2s/step - accuracy: 0.9582 - loss: 0.1140
+Epoch 13: ReduceLROnPlateau reducing learning rate to 9.999999747378752e-07.
+159/159 ━━━━━━━━━━━━━━━━━━━━ 354s 2s/step - accuracy: 0.9582 - loss: 0.1140 - val_accuracy: 0.9900 - val_loss: 0.0451 - learning_rate: 1.0000e-05
+Epoch 14/20
+159/159 ━━━━━━━━━━━━━━━━━━━━ 349s 2s/step - accuracy: 0.9572 - loss: 0.1195 - val_accuracy: 0.9905 - val_loss: 0.0391 - learning_rate: 1.0000e-06
+Epoch 15/20
+159/159 ━━━━━━━━━━━━━━━━━━━━ 378s 2s/step - accuracy: 0.9650 - loss: 0.1028 - val_accuracy: 0.9905 - val_loss: 0.0389 - learning_rate: 1.0000e-06
+Epoch 16/20
+159/159 ━━━━━━━━━━━━━━━━━━━━ 348s 2s/step - accuracy: 0.9678 - loss: 0.0963 - val_accuracy: 0.9900 - val_loss: 0.0397 - learning_rate: 1.0000e-06
+Epoch 17/20
+159/159 ━━━━━━━━━━━━━━━━━━━━ 382s 2s/step - accuracy: 0.9664 - loss: 0.0982 - val_accuracy: 0.9916 - val_loss: 0.0365 - learning_rate: 1.0000e-06
+
+=== TRAINING FINISHED ===
+
+57/57 ━━━━━━━━━━━━━━━━━━━━ 14s 243ms/step - accuracy: 0.9886 - loss: 0.0394
